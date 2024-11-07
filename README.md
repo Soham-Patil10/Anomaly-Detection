@@ -22,7 +22,7 @@ The project utilizes the `creditcard.csv` dataset, which contains anonymized fea
 To run this project, you'll need Python 3.x and the following libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 ## Usage
 1. **Load the Data**: The dataset should be saved as `creditcard.csv`.
 2. **Run the Notebook**: Execute each cell sequentially to load data, preprocess, and train models.
