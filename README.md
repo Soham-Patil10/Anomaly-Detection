@@ -47,9 +47,5 @@ This project uses three main approaches to detect anomalies:
 ## Results
 Each model's performance is evaluated based on accuracy, F1 score, and confusion matrix analysis.
 
-- **Isolation Forest** achieved an F1 score of ...
-- **Local Outlier Factor** achieved an F1 score of ...
-- **One-Class SVM** achieved an F1 score of ...
-
 ## License
 This project is open-source. Feel free to use, modify, and distribute as per the project's license.
